@@ -1,0 +1,20 @@
+# Python environment
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Large Data Files (Don't upload 22k row CSVs)
+*.csv
+*.xlsx
+*.txt
+
+# IDE Settings
+.vscode/
+.idea/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+notes.md
